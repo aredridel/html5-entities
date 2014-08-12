@@ -1,7 +1,7 @@
 {
 	"name": "html5-entities",
 	"description": "A table mapping HTML5 entity patterns to unicode code points",
-	"version": "0.5.1",
+	"version": "1.0.0",
 	"author": {
 		"name": "Aria Stewart",
 		"email": "aredridel@nbtsc.org",
